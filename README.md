@@ -3,6 +3,9 @@
 ## Project setup
 ```
 npm install
+
+You can receive api project from this link: https://github.com/malikkorucu/twitter-clone-api
+!! You need to start api project on your local network.
 ```
 
 ### Compiles and hot-reloads for development
